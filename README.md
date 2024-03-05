@@ -1,5 +1,5 @@
-### Hi there 👋
-
+JS | TS | ReactJS | NodeJS   
+![Codewars](https://www.codewars.com/users/rsschool_07a604b949a8d3be/badges/micro)
 <!--
 **Greys73/Greys73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
